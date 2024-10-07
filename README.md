@@ -7,6 +7,8 @@
    Creatign and training model (probably RNN for audio features)
    Decide how high or low level the project should be
    Deciding how to best convert audio to data (frequency-time)       
-4. Classification of data
+3. Classification of data
    Evaluating and assessing performance of the model
    Deciding how to take user input and best convert audio
+
+Test
