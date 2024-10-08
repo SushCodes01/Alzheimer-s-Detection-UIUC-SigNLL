@@ -4,7 +4,7 @@
    Finding datasets
    Clean up audio and get it ready for training  
 2. Audio conversion to data
-   Creatign and training model (probably RNN for audio features)
+   Creating and training model (probably RNN for audio features)
    Decide how high or low level the project should be
    Deciding how to best convert audio to data (frequency-time)       
 3. Classification of data
